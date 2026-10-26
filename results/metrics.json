@@ -1,0 +1,9 @@
+{
+  "project": "Variational Autoencoder for Synthetic Expression",
+  "test_reconstruction_mse": 0.07149155368455655,
+  "mean_baseline_mse": 0.9793101518110179,
+  "initial_loss": 1.036272082551371,
+  "final_loss": 0.24227793669675907,
+  "latent_dimensions": 3,
+  "generation_scope": "Samples from a toy latent Gaussian; no verified biological meaning"
+}
